@@ -1,0 +1,12 @@
+{
+  "version": "1.1",
+  "observedUtc": "2026-10-22T16:30:01.2331612Z",
+  "pid": 33672,
+  "hookBytes": "E9C35380009090",
+  "stubAddress": "0x00C80000",
+  "stubBytes": "9C50A1E8BF950085C07415668378040B740766837804147507589DE93BAC7FFF589D803D0CE5900000E911AC7FFF",
+  "responding": true,
+  "loadedAsi": [
+    "E:\\Cricket07\\Cricket07CpuVsCpu.asi"
+  ]
+}
