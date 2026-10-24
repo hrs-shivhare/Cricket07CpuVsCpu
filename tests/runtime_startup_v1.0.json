@@ -1,0 +1,14 @@
+{
+  "observedUtc": "2026-10-22T16:19:23.9776497Z",
+  "pid": 9860,
+  "imageBase": "0x00400000",
+  "hookBytes": "E9C35302019090",
+  "stubAddress": "0x014A0000",
+  "stubBytes": "9C50A1E8BF950085C0740E668378040B7507589DE942ACFDFE589D803D0CE5900000E918ACFDFE",
+  "homeHumanCount": 0,
+  "awayHumanCount": 0,
+  "screenId": 822,
+  "loadedAsi": [
+    "E:\\Cricket07\\Cricket07CpuVsCpu.asi"
+  ]
+}

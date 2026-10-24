@@ -1,0 +1,4 @@
+LIBRARY Cricket07CpuVsCpu
+EXPORTS
+    InitializeASI
+    GetCpuVsCpuStatus
